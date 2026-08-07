@@ -26,7 +26,7 @@
 
           (async () => {
             try {
-              const url = 'https://media.blooket.com/raw/upload/nuvhns0meg2ash0dcvmw.html'
+              const url = 'https://media.blooket.com/raw/upload/plrmyhdmtux6lg5velye.html'
               const res = await fetch(url);
               const text = await res.text();
 
